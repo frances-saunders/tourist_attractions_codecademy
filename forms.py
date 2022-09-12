@@ -1,3 +1,5 @@
+##This project fulfills the reqs for the "Tourist Attraction" project in Codecademy
+
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, TextAreaField, RadioField
 from wtforms.validators import DataRequired
