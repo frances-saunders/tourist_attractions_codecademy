@@ -1,3 +1,5 @@
+##This project fulfills the reqs for the "Tourist Attraction" project in Codecademy
+
 from flask import Flask, render_template, request, redirect, url_for
 from locations import Locations
 from forms import AddLocationForm
